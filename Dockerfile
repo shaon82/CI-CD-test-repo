@@ -1,5 +1,5 @@
 # Use OpenJDK 21 image
-FROM openjdk:21.0.6
+FROM openjdk:21
 
 LABEL maintainer="Shaon"
 
