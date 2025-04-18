@@ -1,10 +1,10 @@
-package com.shaon.user_service;
+package com.shaon.cicd.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserServiceApplicationTests {
+class CicdTestApplicationTests {
 
 	@Test
 	void contextLoads() {
